@@ -43,7 +43,7 @@ EduAxis_Study_Center/
 Installation & Setup
 
 1. Download or clone the project from your repository.
-git clone https://github.com/your-repo/eduaxis-management.git
+git clone https://github.com/harshamanojk/STUDY-CENTRE-MANAGEMENT-SYSTEM.git
 2. Move the project folder to C:\xampp\htdocs.
 3. Install the required dependencies by running the command: composer install
 4. Import the EduAxis.sql file into your MySQL workbench.
